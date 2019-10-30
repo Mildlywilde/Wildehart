@@ -1,0 +1,28 @@
+{
+  "heroImage": {
+    "sys": {
+      "space": {
+        "sys": { "type": "Link", "linkType": "Space", "id": "za141ai0eei3" }
+      },
+      "id": "75iNgg0tvv8W3iNVM0uLTg",
+      "type": "Asset",
+      "createdAt": "2019-10-30T16:57:52.029Z",
+      "updatedAt": "2019-10-30T16:57:52.029Z",
+      "environment": {
+        "sys": { "id": "master", "type": "Link", "linkType": "Environment" }
+      },
+      "revision": 1,
+      "locale": "en-US"
+    },
+    "fields": {
+      "title": "Wildehart Man",
+      "file": {
+        "url": "//images.ctfassets.net/za141ai0eei3/75iNgg0tvv8W3iNVM0uLTg/a176dab4ff7edec69bfebb2a30a3a748/rick-jpg--jack-jpg--rickk-jpg--jack-jpg.jpeg",
+        "details": { "size": 15871, "image": { "width": 300, "height": 400 } },
+        "fileName": "rick-jpg--jack-jpg--rickk-jpg--jack-jpg.jpeg",
+        "contentType": "image/jpeg"
+      }
+    }
+  },
+  "title": "WildeHart"
+}
