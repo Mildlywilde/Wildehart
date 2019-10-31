@@ -2,6 +2,7 @@ h1 {
     font-family: hellvetica;
     text-align: center;
     font-size: 10ex;
+    src: url("/hellvetica.ttf")
 }
 
 h1 {
