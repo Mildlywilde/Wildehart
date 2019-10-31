@@ -6,4 +6,14 @@ import data from './../data/homePage.json'
 
 import "../styles/style.css"
 
-export default () => <Hero data={data}/>
+export default () => {
+    return(
+        <div>
+            <Hero data={data}/>
+            <Head>
+                <title>WildeHart</title>
+                <meta name="viewport" content="initial-scale=1.0, width=device-width" />
+            </Head>
+        </div>
+        )
+}
