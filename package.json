@@ -7,7 +7,7 @@
     "build": "next build",
     "start": "next start",
     "postinstall": "yarn getcontent",
-    "getcontent": "babel-node helpers/getcontent.js install"
+    "getcontent": "babel-node helpers/getContent.js install"
   },
   "dependencies": {
     "@babel/cli": "^7.6.4",
